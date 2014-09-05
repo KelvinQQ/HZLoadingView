@@ -21,7 +21,11 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
 
-    [HZLoadingView showLoadingViewInView:self.view];
+    [HZLoadingView showLoadingViewInView:self.view stopBlock:^(HZLoadingView *loadingView) {
+        [HZLoadingView dismissLoadingViewInView:self.view];
+        NSLog(@"Stop Block");
+    }];
+//    [HZLoadingView showLoadingViewInView:self.view];
 }
 
 - (void)didReceiveMemoryWarning

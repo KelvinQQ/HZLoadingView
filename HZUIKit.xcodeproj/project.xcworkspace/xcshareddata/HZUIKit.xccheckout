@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F43C2D01-E137-49B5-86C5-36DE21231DB7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HZUIKit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D85241E3-88D4-4FA6-BF07-94A6FD36723F</key>
+		<string>https://github.com/HistoryZhang/HZLoadingView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HZUIKit.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D85241E3-88D4-4FA6-BF07-94A6FD36723F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/HistoryZhang/HZLoadingView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D85241E3-88D4-4FA6-BF07-94A6FD36723F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D85241E3-88D4-4FA6-BF07-94A6FD36723F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HZLoadingView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
